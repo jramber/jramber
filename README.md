@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Juan David, and I am a Computer Science Engineer based in Spain.
+
+My current role is Full Stack Developer, and I have a strong fundation in Javascript and Typescript. I have professional experience across e-commerce, corporate platforms and internal business tools. And from tim to time I also take freelance projects, such as desiging and developing full fledge wepages.
+
+I am commited to learning and I love to tackle with though challenges and search for the most efficient and performant solution.
+
+I am currently working on CapitalView, a side project which goal is to group all my finances in one place.
+
 <!--
 **jramber/jramber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
